@@ -45,7 +45,7 @@
                 alt="php" width="40" height="40" />
         </a>
         <a href="https://www.laravel.com" target="_blank"> <img
-                src="<i class='fab fa-laravel'></i>"
+                src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
                 alt="laravel" width="40" height="40" />
         </a> &nbsp&nbsp&nbsp
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
