@@ -4,34 +4,25 @@
 <h3 align="center">A passionate learner and preparing for the role of full stack Web developer</h3>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=sajibuzzaman&label=Profile%20views&color=0e75b6&style=flat"
-        alt="sajibuzzaman" /> </p>
+        src="https://komarev.com/ghpvc/?username=hossainalamin&label=Profile%20views&color=0e75b6&style=flat"
+        alt="hossainalamin"/> </p>
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS**
+- 🌱 I’m currently learning **Python, Machine Learning, Javascript**
 
-- 💬 Ask me about **Django, HTML, CSS, Bootstrap**
+- 💬 Ask me about **PHP, Laravel, HTML, CSS, Bootstrap, Mysql**
 
-- 📫 How to reach me **sajib.butterfly@gmail.com**
+- 📫 How to reach me **hossainalamin980@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/uzzamansajib" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/twitter.svg" alt="uzzamansajib" height="30"
+    <a href="https://www.linkedin.com/in/md-al-amin-hossain-a281071b8" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/linkedin.svg" alt="hossainalamin-bd" height="30"
             width="40" /></a>
-    <a href="https://linkedin.com/in/sajibuzzaman-bd" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/linkedin.svg" alt="sajibuzzaman-bd" height="30"
-            width="40" /></a>
-    <a href="https://stackoverflow.com/users/14381439/sajib-uzzaman" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/stackoverflow.svg" alt="14381439/sajib-uzzaman"
+    <a href="https://stackoverflow.com/users/13541601/md-alamin-hossain" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/stackoverflow.svg" alt="14381439/hossainalamin"
             height="30" width="40" /></a>
-    <a href="https://fb.com/sajibuzzaman98" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/facebook.svg" alt="sajibuzzaman98" height="30"
-            width="40" /></a>
-    <a href="https://instagram.com/sajib_uzzaman" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" alt="sajib_uzzaman" height="30"
-            width="40" /></a>
-    <a href="https://www.youtube.com/c/sajibuzzaman" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/youtube.svg" alt="sajibuzzaman" height="30"
+    <a href="https://www.facebook.com/profile.php?id=100008269657137" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/facebook.svg" alt="Alamin" height="30"
             width="40" /></a>
 </p>
 
@@ -49,39 +40,21 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
         </a> &nbsp&nbsp&nbsp
-        <a href="https://www.python.org" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" />
+        <a href="https://www.php.org" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                alt="php" width="40" height="40" />
         </a>
-        <a href="https://www.djangoproject.com/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-                alt="django" width="40" height="40" />
+        <a href="https://www.laravel.com" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
+                alt="laravel" width="40" height="40" />
         </a> &nbsp&nbsp&nbsp
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
-        </a>
-        <a href="https://reactjs.org/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" />
-        </a>
-        <a href="https://nodejs.org" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" />
-        </a> &nbsp&nbsp&nbsp
         <a href="https://www.mysql.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                 alt="mysql" width="40" height="40" />
         </a>
-        <a href="https://www.postgresql.org" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-                height="40" />
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-        </a> &nbsp&nbsp&nbsp
     <p>
         <a href="https://www.java.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -106,48 +79,16 @@
         <a href="https://www.arduino.cc/" target="_blank"> <img
                 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
         </a>
-        <a href="https://www.mathworks.com/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg"
-                alt="matlab" width="40" height="40" />
-        </a>
-    <p>
-        <a href="https://www.photoshop.com/en" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" />
-        </a>
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-                width="40" height="40" />
-        </a>
-        <a href="https://www.figma.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-        </a>
-    </p>
-    <p>
-        <a href="https://www.linux.org/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-        <a href="https://heroku.com" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-        </a>
-        <a href="https://zapier.com" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" />
-        </a>
-    </p>
 
 </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sajibuzzaman&show_icons=true&locale=en&layout=compact"
-        alt="sajibuzzaman" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainalamin&show_icons=true&locale=en&layout=compact"
+        alt="hossainalamin" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sajibuzzaman&show_icons=true&locale=en"
-        alt="sajibuzzaman" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=hossainalamin&show_icons=true&locale=en"
+        alt="hossainalamin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibuzzaman&" alt="sajibuzzaman" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainalamin&" alt="hossainalamin" />
 </p>
