@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel8**
 
-- 💬 Ask me about **PHP, Laravel, HTML, CSS, Bootstrap, Mysql**
+- 💬 Ask me about **PHP, Laravel, HTML5, CSS3, Bootstrap, Mysql**
 
 - 📫 How to reach me **hossainalamin980@gmail.com**
 
