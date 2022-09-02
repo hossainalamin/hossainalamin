@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Alamin Hossain</h1>
-<h6 align="center">Computer Science & Engineering Student at JnU</h6>
+<h6 align="center">Assistant Programmer at Micromac Techno Valley</h6>
 
-<h3 align="center">I,a passionate learner,am preparing for the role of full stack Web developer</h3>
+<h3 align="center">Think deep then press the key</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hossainalamin&label=Profile%20views&color=0e75b6&style=flat"
         alt="hossainalamin"/> </p>
 
-- 🌱 I’m currently learning **Machine learning,React Js,Problem solving**
+<-- 🌱 I’m currently learning **React Js,Problem solving** --!>
 
 - 💬 Ask me about **PHP, Laravel, HTML5, CSS3, Bootstrap, Mysql,Js**
 
