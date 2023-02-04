@@ -7,9 +7,9 @@
         src="https://komarev.com/ghpvc/?username=hossainalamin&label=Profile%20views&color=0e75b6&style=flat"
         alt="hossainalamin"/> </p>
 
-🌱 I’m currently learning **React Js,Problem solving**
+🌱 I’m currently learning **React Js,Node Js**
 
-- 💬 Ask me about **PHP, Laravel, HTML5, CSS3, Bootstrap, Mysql,Js**
+- 💬 Ask me about **PHP, Laravel, CodeIgniter, HTML5, CSS3, Bootstrap, Mysql,Js**
 
 - 📫 How to reach me **hossainalamin980@gmail.com**
 
