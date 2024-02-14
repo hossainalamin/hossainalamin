@@ -7,9 +7,9 @@
         src="https://komarev.com/ghpvc/?username=hossainalamin&label=Profile%20views&color=0e75b6&style=flat"
         alt="hossainalamin"/> </p>
 
-🌱 I’m currently learning **Docker,Kubernetes,openShift**
+🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **PHP, Laravel, CodeIgniter, HTML5, CSS3, Bootstrap, Mysql,Js**
+- 💬 Ask me about **Java, Grails, Spring boot, PHP, Laravel, CodeIgniter, Postgresql, Mysql, HTML5, CSS3, Bootstrap,Js, Jquery**
 
 - 📫 How to reach me **hossainalamin980@gmail.com**
 
