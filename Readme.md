@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Md Alamin Hossain</h1>
-<h6 align="center">Assistant Programmer at Micromac Techno Valley</h6>
+<h1 align="center">Hi 👋, I'm Md Al Amin Hossain</h1>
+<h6 align="center">Software Engineer At @BRAC IT Services</h6>
 
-<h3 align="center">Think deep then press the key</h3>
+<h3 align="center">Consistant learniner</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hossainalamin&label=Profile%20views&color=0e75b6&style=flat"
         alt="hossainalamin"/> </p>
 
-🌱 I’m currently learning **DevOps**
+🌱 I’m currently learning **Docker , k8s**
 
 - 💬 Ask me about **Java, Grails, Spring boot, PHP, Laravel, CodeIgniter, Postgresql, Mysql, HTML5, CSS3, Bootstrap,Js, Jquery**
 
