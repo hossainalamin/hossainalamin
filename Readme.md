@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **Docker , k8s**
 
-- 💬 Ask me about **Java, Grails, Spring boot, PHP, Laravel, CodeIgniter, Postgresql, Mysql, HTML5, CSS3, Bootstrap,Js, Jquery**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **hossainalamin980@gmail.com**
 
